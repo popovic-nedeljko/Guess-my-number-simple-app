@@ -407,27 +407,3 @@ body.state-lose .again {
     flex: none;
   }
 }
-
-/* MOBILE */
-/* @media only screen and (max-width: 430px) {
-  html {
-    font-size: 32%;
-  }
-  header {
-    height: 28vh;
-  }
-  .again {
-    font-size: 1.5rem;
-    padding: 1.2rem 2rem;
-  }
-  .between {
-    font-size: 1.5rem;
-  }
-  main {
-    padding: 6rem 4% 1rem;
-    gap: 1.5rem;
-  }
-  .new-game {
-    padding: 1.5rem 3rem;
-  }
-} */
